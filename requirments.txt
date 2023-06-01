@@ -1,0 +1,5 @@
+cmake==3.26.3
+dlib @ file:///C:/Users/Murtaza/Desktop/Real%20Time%20Glasses%20in%20Video/dlib-19.22.99-cp310-cp310-win_amd64.whl
+numpy==1.24.3
+opencv-python==4.7.0.72
+scipy==1.10.1
